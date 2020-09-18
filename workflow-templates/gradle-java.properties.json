@@ -1,6 +1,6 @@
 {
-    "name": "Gradle Java",
-    "description": "Gradle build template for Java projects.",
+    "name": "Gradle Build for Java Projects",
+    "description": "Gradle build template for Java projects, which includes build, check, and test steps and published a snapshot to GitHub Package Registry",
     "iconName": "gradle-icon",
     "categories": [
         "Java"
